@@ -1,5 +1,5 @@
 <?php
-//计算两个时间1
+//计算两个时间11
 ini_set('date.timezone','Asia/Shanghai');
 function format_date($time){
     $t=time()-$time;
